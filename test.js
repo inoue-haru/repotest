@@ -1,3 +1,5 @@
+オフィスの扉パスワード変更
+
 /**   
 ID PASS
 */
@@ -5,6 +7,7 @@ ID PASS
 "https://www.office.com/?auth=2&home=1"
 ID:inoue@ouk.jp
 PASS:delete@0511
+
 
 
 /**   
